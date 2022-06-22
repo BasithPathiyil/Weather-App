@@ -1,0 +1,41 @@
+.main {
+    background-image: url(./image1.jpg);
+    position: relative;
+}
+.times{
+    text-align: center;
+    font-size: 30px;
+    color: antiquewhite;
+}
+.input{
+    text-align: center;
+    padding-top: 30px;
+}
+.parent{
+    position: relative;
+}
+.todayDate{
+    text-align: center;
+    color: antiquewhite;
+}
+.place{
+    padding-top: 20px;
+    color: antiquewhite;
+    text-align: center;
+}
+.temp_div{
+    margin-left: 35%;
+    height: 60px;
+    width: 80px;
+    border: 2px solid;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 30px;
+}
+.sub{
+    color: antiquewhite;
+    
+}
+body{
+    background-color: black;
+}
